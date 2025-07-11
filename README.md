@@ -30,11 +30,14 @@ A Salesforce-based project to manage customer insurance policies, automate workf
 
 ## 📸 Screenshots
 
-> Add your screenshots in a `/screenshots` folder and update these links:
 
-- ![Insurance Object Fields](screenshots/insurance-object-fields.png)
-- ![Flow - Update & Email](screenshots/surrender-flow-builder.png)
-- ![Validation Rule](screenshots/validation-rule-surrender.png)
+
+- ![Insurance Object ](object.png)
+-  Fields](fiels and object Insurance(1).png)
+- ![Flow - Update & Email](EmailEditFlow.png)
+-  ![Flow ]( Flows Screenshot.png)
+- ![Validation Rule](validationRuleError.png)
+-  ![Validation Rule II](ValidationRule2Insurance.png)
 - ![Funnel Report](screenshots/funnel-report.png)
 
 ## 🧰 Tools & Technologies
